@@ -26,11 +26,12 @@
 		<h2 >Program ALIF</h2>	
 	</div>
 	<div class="col-md-3 col-lg-3" style="padding: 10px">	
-	
-  		<img class="card-img-top" src="<?php echo base_url()?>assets/img/jadi1.jpg" alt="Card image cap">
+      <a href="<?php echo base_url()?>c_kelas1">
+  		<img class="card-img-top" src="<?php echo base_url()?>assets/img/kelas1.jpg" alt="Card image cap">
+      </a>
   		<div class="card-body">
     		<h5 class="text-center">Kelas ALIF School</h5>
-    			<p class="text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
     		
   		</div>
 	
@@ -38,22 +39,24 @@
 
 
   <div class="col-md-3 col-lg-3" style="padding: 10px">
-	
-  		<img class="card-img-top" src="<?php echo base_url()?>assets/img/jadi1.jpg" alt="Card image cap">
+      <a href="<?php echo base_url()?>c_kelas2">
+  		<img class="card-img-top" src="<?php echo base_url()?>assets/img/jadi.jpg" alt="Card image cap">
+      </a>
   		<div class="card-body">
     		<h5 class="text-center" >HOME PRIVAT</h5>
-    		<p class="text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    		
     		
   		</div>
 	
   </div>
 
   <div class="col-md-3 col-lg-3" style="padding: 10px">
-	
-  		<img class="card-img-top" src="<?php echo base_url()?>assets/img/jadi1.jpg" alt="Card image cap">
-  		<div class="card-body">
+      <a href="<?php echo base_url()?>c_kelas3">
+  		<img class="card-img-top" src="<?php echo base_url()?>assets/img/jadi3.jpg" alt="Card image cap">
+  		</a>
+      <div class="card-body">
     		<h5 class="text-center" >ALIF goes to Office</h5>
-    		<p class="text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    		
     		
   		</div>
 	
@@ -61,11 +64,12 @@
 
 
   <div class="col-md-3 col-lg-3" style="padding: 10px">
-	
-  		<img class="card-img-top" src="<?php echo base_url()?>assets/img/jadi1.jpg" alt="Card image cap">
-  		<div class="card-body">
+      <a href="<?php echo base_url()?>c_kelas4">
+  		<img class="card-img-top" src="<?php echo base_url()?>assets/img/a4.jpg" alt="Card image cap">
+  		</a>
+      <div class="card-body">
     		<h5 class="text-center" >PROGRAM TAHUNAN</h5>
-    		<p class="text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    		
     		
   		</div>
 	
